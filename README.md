@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/beholder.ico" alt="Beholder Logo" width="120" />
+  <img src="beholder.ico" alt="Beholder Logo" width="120" />
   
   # 👁️ Beholder
   
